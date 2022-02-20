@@ -6,7 +6,7 @@
 </p>
 
 
-アカウントIDを不用意に変更してしまったため, Comiiter情報が上手く取得できずCommiot数・PR数が少なく表示されています．
+アカウントIDを不用意に変更してしまったため, Commiter情報が上手く取得できずCommit数・PR数が少なく表示されています😥
 <!--
 **oNqNu/oNqNu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
