@@ -5,6 +5,8 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onqnu&layout=compact&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
 </p>
 
+
+アカウントIDを不用意に変更してしまったため, Comiiter情報が上手く取得できずCommiot数・PR数が少なく表示されています．
 <!--
 **oNqNu/oNqNu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
