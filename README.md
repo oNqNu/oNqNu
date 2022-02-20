@@ -1,5 +1,9 @@
 ### Hi there, I'm Yuma Yamasaki. 👋
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oNqNu&layout=compact&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=oNqNu&theme=onedark&show_icons=true&include_all_commits=true&count_private=true" />
+</p>
 <!--
 **oNqNu/oNqNu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
