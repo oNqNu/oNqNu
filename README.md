@@ -1,4 +1,4 @@
-### Hi there, I'm Yuma Yamasaki. 👋
+### Hi, I'm Yuma Yamasaki. 👋
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=onqnu&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
