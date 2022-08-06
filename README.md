@@ -1,1 +1,1 @@
-### Yap, I'm Yuma Yamasaki. 😈
+### Sup! I'm Yuma Yamasaki. 😈
